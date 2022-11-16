@@ -28,7 +28,7 @@ require (
 	github.com/armon/go-metrics v0.4.1
 	github.com/armon/go-radix v1.0.0
 	github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5
-	github.com/aws/aws-sdk-go v1.44.138
+	github.com/aws/aws-sdk-go v1.44.139
 	github.com/bluele/gcache v0.0.2
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869
 	github.com/bradfitz/gomemcache v0.0.0-20221031212613-62deef7fc822
@@ -72,7 +72,7 @@ require (
 	github.com/vishvananda/netns v0.0.1
 	github.com/weaveworks/billing-client v0.0.0-00010101000000-000000000000
 	github.com/weaveworks/common v0.0.0
-	github.com/weaveworks/go-checkpoint v0.0.0-20220223124739-fd9899e2b4f2
+	github.com/weaveworks/go-checkpoint v0.0.0
 	github.com/weaveworks/ps v0.0.0-20160725183535-70d17b2d6f76
 	github.com/weaveworks/tcptracer-bpf v0.0.0-00010101000000-000000000000
 	github.com/weaveworks/weave v0.0.0-00010101000000-000000000000
