@@ -17,6 +17,8 @@ replace github.com/weaveworks/billing-client => ../deepfence/weaveworks/billing-
 
 replace github.com/weaveworks/common => ../deepfence/weaveworks/common
 
+replace github.com/weaveworks/go-checkpoint => ../deepfence/weaveworks/go-checkpoint
+
 require (
 	camlistore.org v0.0.0-20171230002226-a5a65f0d8b22
 	github.com/Jeffail/tunny v0.1.4
@@ -68,7 +70,7 @@ require (
 	github.com/vishvananda/netns v0.0.1
 	github.com/weaveworks/billing-client v0.0.0-00010101000000-000000000000
 	github.com/weaveworks/common v0.0.0-20220927162600-d0a1a93a15be
-	github.com/weaveworks/go-checkpoint v0.0.0-20220223124739-fd9899e2b4f2
+	github.com/weaveworks/go-checkpoint v0.0.0-00010101000000-000000000000
 	github.com/weaveworks/ps v0.0.0-20160725183535-70d17b2d6f76
 	github.com/weaveworks/tcptracer-bpf v0.0.0-00010101000000-000000000000
 	github.com/weaveworks/weave v2.6.5+incompatible
@@ -158,7 +160,7 @@ require (
 	github.com/weaveworks/promrus v1.2.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	go.uber.org/atomic v1.5.1 // indirect
-	golang.org/x/crypto v0.0.0-20221012134737-56aed061732a // indirect
+	golang.org/x/crypto v0.2.0 // indirect
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b // indirect
 	golang.org/x/mod v0.7.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20220909003341-f21342109be1 // indirect
