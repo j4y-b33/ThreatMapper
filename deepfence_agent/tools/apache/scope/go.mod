@@ -69,7 +69,7 @@ require (
 	github.com/vishvananda/netlink v1.1.1-0.20210330154013-f5de75959ad5
 	github.com/vishvananda/netns v0.0.1
 	github.com/weaveworks/billing-client v0.0.0-00010101000000-000000000000
-	github.com/weaveworks/common v0.0.0-20220927162600-d0a1a93a15be
+	github.com/weaveworks/common v0.0.0
 	github.com/weaveworks/go-checkpoint v0.0.0-00010101000000-000000000000
 	github.com/weaveworks/ps v0.0.0-20160725183535-70d17b2d6f76
 	github.com/weaveworks/tcptracer-bpf v0.0.0-00010101000000-000000000000
@@ -159,9 +159,8 @@ require (
 	github.com/uber/jaeger-lib v2.4.1+incompatible // indirect
 	github.com/weaveworks/promrus v1.2.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
-	go.uber.org/atomic v1.5.1 // indirect
+	go.uber.org/atomic v1.4.0 // indirect
 	golang.org/x/crypto v0.2.0 // indirect
-	golang.org/x/lint v0.0.0-20200302205851-738671d3881b // indirect
 	golang.org/x/mod v0.7.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20220909003341-f21342109be1 // indirect
 	golang.org/x/term v0.2.0 // indirect
