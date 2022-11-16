@@ -1,0 +1,8 @@
+.uptodate
+.pkg
+/common-build/.src
+vendor
+server/certs/*.key
+server/certs/*.crt
+server/certs/*.csr
+server/certs/*.srl
