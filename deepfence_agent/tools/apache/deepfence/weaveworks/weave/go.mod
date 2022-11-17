@@ -8,10 +8,6 @@ replace github.com/containernetworking/cni v1.1.2 => github.com/containernetwork
 
 replace github.com/docker/libnetwork v0.5.6 => github.com/docker/libnetwork v0.7.2-rc.1
 
-replace github.com/weaveworks/common v0.0.0 => ../common
-
-replace github.com/weaveworks/go-checkpoint v0.0.0 => ../go-checkpoint
-
 require (
 	github.com/andybalholm/go-bit v1.0.1
 	github.com/aws/aws-sdk-go v1.44.138
@@ -34,8 +30,8 @@ require (
 	github.com/stretchr/testify v1.8.1
 	github.com/vishvananda/netlink v1.1.1-0.20210330154013-f5de75959ad5
 	github.com/vishvananda/netns v0.0.1
-	github.com/weaveworks/common v0.0.0
-	github.com/weaveworks/go-checkpoint v0.0.0
+	github.com/weaveworks/common v0.0.0-20220927162600-d0a1a93a15be
+	github.com/weaveworks/go-checkpoint v0.0.0-20220223124739-fd9899e2b4f2
 	github.com/weaveworks/go-odp v0.0.0-20210211161013-0917d4b45e97
 	github.com/weaveworks/mesh v0.0.0-20191105120815-58dbcc3e8e63
 	golang.org/x/crypto v0.2.0
@@ -101,13 +97,13 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/weaveworks/promrus v1.2.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
-	golang.org/x/mod v0.7.0 // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
 	golang.org/x/net v0.2.0 // indirect
-	golang.org/x/oauth2 v0.0.0-20220909003341-f21342109be1 // indirect
+	golang.org/x/oauth2 v0.0.0-20220223155221-ee480838109b // indirect
 	golang.org/x/term v0.2.0 // indirect
 	golang.org/x/text v0.4.0 // indirect
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8 // indirect
-	golang.org/x/tools v0.3.0 // indirect
+	golang.org/x/tools v0.1.12 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
