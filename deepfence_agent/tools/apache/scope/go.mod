@@ -19,8 +19,6 @@ replace github.com/weaveworks/common => ../deepfence/weaveworks/common
 
 replace github.com/weaveworks/go-checkpoint => ../deepfence/weaveworks/go-checkpoint
 
-replace github.com/weaveworks/weave => ../deepfence/weaveworks/weave
-
 require (
 	camlistore.org v0.0.0-20171230002226-a5a65f0d8b22
 	github.com/Jeffail/tunny v0.1.4
@@ -72,10 +70,10 @@ require (
 	github.com/vishvananda/netns v0.0.1
 	github.com/weaveworks/billing-client v0.0.0-00010101000000-000000000000
 	github.com/weaveworks/common v0.0.0
-	github.com/weaveworks/go-checkpoint v0.0.0-20220223124739-fd9899e2b4f2
+	github.com/weaveworks/go-checkpoint v0.0.0-00010101000000-000000000000
 	github.com/weaveworks/ps v0.0.0-20160725183535-70d17b2d6f76
 	github.com/weaveworks/tcptracer-bpf v0.0.0-00010101000000-000000000000
-	github.com/weaveworks/weave v0.0.0-00010101000000-000000000000
+	github.com/weaveworks/weave v2.6.5+incompatible
 	github.com/willdonnelly/passwd v0.0.0-20141013001024-7935dab3074c
 	golang.org/x/net v0.2.0
 	golang.org/x/sync v0.1.0
@@ -99,7 +97,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/containerd/cgroups v1.0.3 // indirect
 	github.com/containerd/containerd v1.6.6 // indirect
-	github.com/docker/docker v20.10.21+incompatible // indirect
+	github.com/docker/docker v20.10.19+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/emicklei/go-restful/v3 v3.8.0 // indirect

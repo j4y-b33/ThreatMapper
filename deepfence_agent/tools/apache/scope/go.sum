@@ -290,8 +290,8 @@ github.com/docker/distribution v0.0.0-20190905152932-14b96e55d84c/go.mod h1:0+TT
 github.com/docker/distribution v2.7.1-0.20190205005809-0d3efadf0154+incompatible/go.mod h1:J2gT2udsDAN96Uj4KfcMRqY0/ypR+oyYUYmja8H+y+w=
 github.com/docker/distribution v2.7.1+incompatible/go.mod h1:J2gT2udsDAN96Uj4KfcMRqY0/ypR+oyYUYmja8H+y+w=
 github.com/docker/docker v1.4.2-0.20190924003213-a8608b5b67c7/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
-github.com/docker/docker v20.10.21+incompatible h1:UTLdBmHk3bEY+w8qeO5KttOhy6OmXWsl/FEet9Uswog=
-github.com/docker/docker v20.10.21+incompatible/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
+github.com/docker/docker v20.10.19+incompatible h1:lzEmjivyNHFHMNAFLXORMBXyGIhw/UP4DvJwvyKYq64=
+github.com/docker/docker v20.10.19+incompatible/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
 github.com/docker/docker-credential-helpers v0.6.3/go.mod h1:WRaJzqw3CTB9bk10avuGsjVBZsD05qeibJ1/TYlvc0Y=
 github.com/docker/go-connections v0.4.0 h1:El9xVISelRB7BuFusrZozjnkIM5YnzCViNKohAFqRJQ=
 github.com/docker/go-connections v0.4.0/go.mod h1:Gbd7IOopHjR8Iph03tsViu4nIes5XhDvyHbTtUxmeec=
@@ -915,6 +915,8 @@ github.com/weaveworks/promrus v1.2.0 h1:jOLf6pe6/vss4qGHjXmGz4oDJQA+AOCqEL3FvvZG
 github.com/weaveworks/promrus v1.2.0/go.mod h1:SaE82+OJ91yqjrE1rsvBWVzNZKcHYFtMUyS1+Ogs/KA=
 github.com/weaveworks/ps v0.0.0-20160725183535-70d17b2d6f76 h1:lX3A5prmpe4MT9iaTiatB76fdLvajxFItYvdsZC3PRU=
 github.com/weaveworks/ps v0.0.0-20160725183535-70d17b2d6f76/go.mod h1:6YfgZlj+cWgxFlwYrm3aPt1rS1xDTD1SEqL0Ms3Zxks=
+github.com/weaveworks/weave v2.6.5+incompatible h1:XdqFrbtKGXbCuDNlvLItapqA2VYLZrb2CxtCeHUMlJA=
+github.com/weaveworks/weave v2.6.5+incompatible/go.mod h1:5ht5Uktjg++tIOqmWI2VvRzbNM7i+RhtqDQPumydP1U=
 github.com/willdonnelly/passwd v0.0.0-20141013001024-7935dab3074c h1:4+NVyrLUuEmvE3r3Xst7gPuKhAP6X04ACpMmPvtK0M0=
 github.com/willdonnelly/passwd v0.0.0-20141013001024-7935dab3074c/go.mod h1:xcvfY9pOw6s4wyrhilFSbMthL6KzgrfCIETHHUOQ/fQ=
 github.com/willf/bitset v1.1.11-0.20200630133818-d5bec3311243/go.mod h1:RjeCKbqT1RxIR/KWY6phxZiaY1IyutSBfGjNPySAYV4=
