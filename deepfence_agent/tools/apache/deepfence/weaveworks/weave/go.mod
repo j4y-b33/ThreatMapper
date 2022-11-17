@@ -12,11 +12,9 @@ replace github.com/weaveworks/common v0.0.0 => ../common
 
 replace github.com/weaveworks/go-checkpoint v0.0.0 => ../go-checkpoint
 
-replace github.com/weaveworks/mesh v0.0.0 => ../mesh
-
 require (
 	github.com/andybalholm/go-bit v1.0.1
-	github.com/aws/aws-sdk-go v1.44.139
+	github.com/aws/aws-sdk-go v1.44.138
 	github.com/boltdb/bolt v1.3.1
 	github.com/containernetworking/cni v1.1.2
 	github.com/coreos/go-iptables v0.6.0
@@ -39,7 +37,7 @@ require (
 	github.com/weaveworks/common v0.0.0
 	github.com/weaveworks/go-checkpoint v0.0.0
 	github.com/weaveworks/go-odp v0.0.0-20210211161013-0917d4b45e97
-	github.com/weaveworks/mesh v0.0.0
+	github.com/weaveworks/mesh v0.0.0-20191105120815-58dbcc3e8e63
 	golang.org/x/crypto v0.2.0
 	golang.org/x/sys v0.2.0
 	k8s.io/api v0.25.4
